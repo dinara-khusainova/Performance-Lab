@@ -1,0 +1,14 @@
+C:\Users\xusai\source\repos\task2\task2\bin\Release\net8.0\task2.exe
+C:\Users\xusai\source\repos\task2\task2\bin\Release\net8.0\task2.deps.json
+C:\Users\xusai\source\repos\task2\task2\bin\Release\net8.0\task2.runtimeconfig.json
+C:\Users\xusai\source\repos\task2\task2\bin\Release\net8.0\task2.dll
+C:\Users\xusai\source\repos\task2\task2\bin\Release\net8.0\task2.pdb
+C:\Users\xusai\source\repos\task2\task2\obj\Release\net8.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xusai\source\repos\task2\task2\obj\Release\net8.0\task2.AssemblyInfoInputs.cache
+C:\Users\xusai\source\repos\task2\task2\obj\Release\net8.0\task2.AssemblyInfo.cs
+C:\Users\xusai\source\repos\task2\task2\obj\Release\net8.0\task2.csproj.CoreCompileInputs.cache
+C:\Users\xusai\source\repos\task2\task2\obj\Release\net8.0\task2.dll
+C:\Users\xusai\source\repos\task2\task2\obj\Release\net8.0\refint\task2.dll
+C:\Users\xusai\source\repos\task2\task2\obj\Release\net8.0\task2.pdb
+C:\Users\xusai\source\repos\task2\task2\obj\Release\net8.0\task2.genruntimeconfig.cache
+C:\Users\xusai\source\repos\task2\task2\obj\Release\net8.0\ref\task2.dll
