@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OXJVEyA8b9XsOfBWW1lzj1gf3SA9oEsBE2WHzQjKAD0LEanmtU2BMQkwM6jA4tgcqM4ECmnGh1wdo4tA2nDjGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xusai\\source\\repos\\task3\\task3\\task3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xusai\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
